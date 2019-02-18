@@ -1,7 +1,7 @@
 # Stanford-Data-Journalism
-Public Affairs Data Journalism Stanford Class
+## Public Affairs Data Journalism Stanford Class
 
-## This is my **initial** posting on GitHub following along with the _Public Affairs Data Journalism Course_ from Stanford.
+### This is my **initial** posting on GitHub following along with the _Public Affairs Data Journalism Course_ from Stanford.
 
 The first assignment from [this link](http://www.padjo.org/2014-09-23/#homework-details) was to post something in markdown on my README master branch. ~~Hopefully I don't screw this up~~
 
